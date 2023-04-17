@@ -8,8 +8,6 @@ Before you start, make sure you have a recent version of [NodeJS](http://nodejs.
 
 ## Recommended IDE Setup
 
-[AEMO Standards](https://aemocdr.atlassian.net/wiki/spaces/ITDEV/pages/2278293621/Vue+3+-+Formatting+and+Linting#Linting-in-Project)
-
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
 
 
