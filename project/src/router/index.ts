@@ -10,9 +10,9 @@ const router = createRouter({
       component: HomeView,
     },
     {
-      path: "/sample-graphql",
-      name: "Sample GraphQL",
-      component: () => import("@/views/sample-graphql.vue"),
+      path: "/sample-page",
+      name: "Sample Page",
+      component: () => import("@/views/sample-page.vue"),
     },
   ],
 });
