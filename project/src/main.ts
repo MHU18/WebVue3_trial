@@ -1,6 +1,4 @@
 import { createApp, h, provide } from "vue";
-import { DefaultApolloClient } from "@vue/apollo-composable";
-import { createPinia } from "pinia";
 import PrimeVue from "primevue/config";
 
 import App from "./app.vue";
@@ -12,7 +10,6 @@ const app = createApp({
   render: () => h(App),
 });
 
-app.use(createPinia());
 app.use(router);
 app.use(PrimeVue);
 
