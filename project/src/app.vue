@@ -6,6 +6,7 @@ import DevPanel from '@/components/dev-panel.vue'
 <template>
   <DevPanel />
   <RouterView />
+  <p>Web Application Trial</p>
 </template>
 
 <style lang="scss">
